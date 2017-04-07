@@ -1,0 +1,8 @@
+{
+	"name": "incredimike/acf-admin-button-field",
+	"description": "ACF field plugin that adds interactive button to WP-Admin interface. Clicking button runs AJAX GET or window.load call.",
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
